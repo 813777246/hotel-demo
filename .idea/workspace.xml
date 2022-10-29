@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d18934ee-5c40-4a4e-bbf7-324d7be95cb5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\studyAppRelation\apache-maven-3.6.3-bin\apache-maven-3.6.3\maven_local_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../studyAppRelation/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\studyAppRelation\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FM2zzQKUOYmmK4MZUqNI7dYslM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaData" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.hotel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelDocumentTest.testBulkRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hotel-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.hotel" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.hotel.HotelDocumentTest" />
+      <option name="METHOD_NAME" value="testBulkRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelDocumentTest.testDeleteDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hotel-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.hotel" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.hotel.HotelDocumentTest" />
+      <option name="METHOD_NAME" value="testDeleteDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelDocumentTest.testGetDocumentById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hotel-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.hotel" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.hotel.HotelDocumentTest" />
+      <option name="METHOD_NAME" value="testGetDocumentById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelDocumentTest.testUpdateDocumentById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hotel-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.hotel" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.hotel.HotelDocumentTest" />
+      <option name="METHOD_NAME" value="testUpdateDocumentById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hotel-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.hotel.HotelDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.HotelDocumentTest.testGetDocumentById" />
+        <item itemvalue="JUnit.HotelDocumentTest.testBulkRequest" />
+        <item itemvalue="JUnit.HotelDocumentTest.testDeleteDocument" />
+        <item itemvalue="JUnit.HotelDocumentTest.testUpdateDocumentById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d18934ee-5c40-4a4e-bbf7-324d7be95cb5" name="Changes" comment="" />
+      <created>1664287899564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664287899564</updated>
+      <workItem from="1664287900775" duration="1332000" />
+      <workItem from="1664346942755" duration="1259000" />
+      <workItem from="1664369591986" duration="6121000" />
+      <workItem from="1664439518799" duration="604000" />
+      <workItem from="1664452945451" duration="832000" />
+      <workItem from="1664708237871" duration="609000" />
+      <workItem from="1664868728500" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
