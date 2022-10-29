@@ -100,6 +100,7 @@ public class HotelDocumentTest {
         client.delete(request,RequestOptions.DEFAULT);
     }
 
+    //soutagnaog
 
     @Test
     void testBulkRequest() throws IOException {
