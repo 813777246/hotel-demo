@@ -8,6 +8,8 @@ import lombok.Data;
 @Data
 @TableName("tb_hotel")
 public class Hotel {
+    //真的不想吐槽
+    
     @TableId(type = IdType.INPUT)
     private Long id;
     private String name;
